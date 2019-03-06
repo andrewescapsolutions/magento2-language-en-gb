@@ -2,7 +2,7 @@ This is an additional fork from cubewebsites/magento2-language-en-gb to allow it
 
 # Links
 
-* Website: https://github.com/cubewebsites/magento2-language-en-gb
+* Website: https://github.com/andrewescapsolutions/magento2-language-en-gb
 
 # What's Up With The Fork?
 
