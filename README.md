@@ -1,3 +1,5 @@
+This is an additional fork from cubewebsites/magento2-language-en-gb to allow it to be used on Magento 2.3.x. I've only modified the composer details, credit to their work for everything else.
+
 # Links
 
 * Website: https://github.com/cubewebsites/magento2-language-en-gb
@@ -22,7 +24,7 @@ Themes normally contain translation files inside the theme which mostly works fi
 
 ```
 cd <your magento path>
-composer require cubewebsites/magento2-language-en-gb:*
+composer require escapsolutions/magento2-language-en-gb:*
 php bin/magento cache:clean
 ```
 
@@ -30,13 +32,13 @@ To update package
 
 ```
 cd <your magento path>
-composer update cubewebsites/magento2-language-en-gb
+composer update escapsolutions/magento2-language-en-gb
 php bin/magento cache:clean
 ```
 
 ## Download repository method
 
-Download file: https://github.com/cubewebsites/magento2-language-en-gb/archive/master.zip
+Download file: https://github.com/andrewescapsolutions/magento2-language-en-gb/archive/master.zip
 
 ```
 cd <your magento path>
